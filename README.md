@@ -4,6 +4,6 @@ test Text
 <html>
   <head></head>
   <body>
-    <a href="https://github.com/Oh-Neul/ohneul/">home</a>
+    <a href="https://oh-neul.github.io/ohneul/">home</a>
   </body>
 </html>
