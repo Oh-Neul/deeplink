@@ -19,6 +19,16 @@
             <a class="baeminScheme" href="baemin-beta://home">baemin-beta://home</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            베타 배민앱 주소설정 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./locationSettings">baemin-beta://./locationSettings</a>
+        </td>
+    </tr>
+      
+      
     </tbody>
 </table>
   </body>
