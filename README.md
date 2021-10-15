@@ -27,6 +27,14 @@
             <a class="baeminScheme" href="baemin-beta://./locationSettings">baemin-beta://./locationSettings</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            베타 배민앱 큐레이션 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./curationShopList">baemin-beta://./curationShopList</a>
+        </td>
+    </tr>
       
       
     </tbody>
