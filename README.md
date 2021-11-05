@@ -43,6 +43,30 @@
             <a class="baeminScheme" href="baemin://./curationShopList">baemin://./curationShopList</a>
         </td>
     </tr>
+      <tr>
+        <td>
+            배민주문 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://home/deliveryTracking?deliveryTracking_ordType=baemin">baemin</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            마켓 주문 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://home/deliveryTracking?deliveryTracking_ordType=market">market</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            스토어 주문 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://home/deliveryTracking?deliveryTracking_ordType=baeminStore">baeminStore</a>
+        </td>
+    </tr>
       
       
     </tbody>
