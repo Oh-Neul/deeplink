@@ -100,7 +100,7 @@
             배달현황
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=<주문번호>&deliveryTracking_ordType=baeminStore">baemin-beta://./deliveryTracking?deliveryTracking_orderNo={주문번호}&deliveryTracking_ordType=baeminStore</a>
+            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=B1360008IS&deliveryTracking_ordType=baeminStore">baemin-beta://./deliveryTracking?deliveryTracking_orderNo=B1360008IS&deliveryTracking_ordType=baeminStore</a>
         </td>
     </tr>
       
