@@ -95,6 +95,18 @@
             <a class="baeminScheme" href="baemin-beta://./marketMenu?marketMenu_shopNo=661702&marketMenu_menuNo=1387510">baemin-beta://./marketMenu?marketMenu_shopNo=661702&marketMenu_menuNo=1387510</a>
         </td>
     </tr>
+      <tr>
+        <td>
+            배달현황
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=<주문번호>&deliveryTracking_ordType=baeminStore">baemin-beta://./deliveryTracking?deliveryTracking_orderNo=<주문번호>&deliveryTracking_ordType=baeminStore</a>
+        </td>
+    </tr>
+      
+      
+      
+      
       
 </table>
     
