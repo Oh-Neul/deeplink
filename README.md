@@ -86,21 +86,13 @@
             <a class="baeminScheme" href="baemin-beta://home/shopList/shopDetail?shopList_categoryCode=33&shopDetail_shopNo=10663860">baemin-beta://home/shopList/shopDetail?shopList_categoryCode=33&shopDetail_shopNo=10663860</a>
         </td>
     </tr>
-      <tr>
-        <td>
-            배민마켓 메뉴 상세<br>
-            (Android)
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./marketMenu?marketMenu_shopNo=661702&marketMenu_menuNo=1387510">baemin-beta://./marketMenu?marketMenu_shopNo=661702&marketMenu_menuNo=1387510</a>
-        </td>
-    </tr>
+      
       <tr>
         <td>
             배달현황
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=B1360008J6&deliveryTracking_ordType=baeminStore">baemin-beta://./deliveryTracking?deliveryTracking_orderNo=B1360008J6&deliveryTracking_ordType=baeminStore</a>
+            <a class="baeminScheme" href="baemin-beta://./shopDetail/menuDetail?shopDetail_shopNo=10660439&menuDetail_shopNo=10660439&menuDetail_menuNo=1406428&menuDetail_categoryTypeCode=1">이동</a>
         </td>
     </tr>
       
