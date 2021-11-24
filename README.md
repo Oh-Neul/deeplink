@@ -85,8 +85,7 @@
 <a class="baeminScheme" href="baemin-beta://home/shopDetail?shopDetail_shopNo=10663860">baemin-beta://home/shopDetail?shopDetail_shopNo=10663860</a><br>
             <a class="baeminScheme" href="baemin-beta://home/shopList/shopDetail?shopList_categoryCode=33&shopDetail_shopNo=10663860">baemin-beta://home/shopList/shopDetail?shopList_categoryCode=33&shopDetail_shopNo=10663860</a>
         </td>
-    </tr>
-      
+      </tr>
       <tr>
         <td>
             배달현황
