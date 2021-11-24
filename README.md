@@ -91,7 +91,7 @@
             배달현황
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./shopDetail/menuDetail?shopDetail_shopNo=10660439&menuDetail_shopNo=10660439&menuDetail_menuNo=1406428&menuDetail_categoryTypeCode=1">이동</a>
+            <a class="baeminScheme" href="baemin-beta://./shopDetail/menuDetail?shopDetail_shopNo=13009755&menuDetail_shopNo=13009755&menuDetail_menuNo=32479007&menuDetail_categoryTypeCode=1">이동</a>
         </td>
     </tr>
       
