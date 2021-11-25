@@ -94,6 +94,22 @@
             <a class="baeminScheme" href="baemin-beta://./shopDetail/menuDetail?shopDetail_shopNo=13009755&menuDetail_shopNo=13009755&menuDetail_menuNo=32479007&menuDetail_categoryTypeCode=1">이동</a>
         </td>
     </tr>
+      <tr>
+        <td>
+            장바구니 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./cart">장바구니</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            딥링크 메시지
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-action-beta://showToast?showToast_message=가나다라 메시지 Message 1234 !@#$">가나다라 Toast 메시지 Message 1234 !@#$</a>
+        </td>
+    </tr>
       
       
       
