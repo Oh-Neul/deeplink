@@ -61,12 +61,20 @@
     </tr>
       <tr>
         <td>
-            스토어 주문 이동
+            배민스토어 이동
         </td>
         <td>
             <a class="baeminScheme" href="baemin-beta://gateway/home?home_serviceTab=BAEMIN_STORE&home_BAEMIN_STORE_mainRef=Gateway">baeminStore</a>
         </td>
     </tr>
+      <tr>
+        <td>
+            배민스토어 리뷰 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://home/reviewManage?reviewManage_tab=BAEMIN_STORE">baeminStoreReview</a>
+        </td>
+      </tr>
       <tr>
         <td>
             (상대경로)<br>
