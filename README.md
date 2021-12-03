@@ -118,6 +118,14 @@
             <a class="baeminScheme" href="baemin-beta://./orderHistory?orderHistory_type=baeminStore">주문내역2</a>
         </td>
     </tr>
+      <tr>
+        <td>
+            주문내역3
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=111522&deliveryTracking_ordType=baeminStore">주문내역3</a>
+        </td>
+    </tr>
       
       
       
