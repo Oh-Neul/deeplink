@@ -77,6 +77,14 @@
       </tr>
       <tr>
         <td>
+            배민스토어 찜 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./favorite?favorite_serviceTab=BAEMIN_STORE">baeminStoreFavorite</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
             (상대경로)<br>
             열혈분식 방이점 가게 상세 이동
         </td>
