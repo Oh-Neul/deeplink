@@ -123,7 +123,7 @@
             주문내역3
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=111522&deliveryTracking_ordType=baeminStore">주문내역3</a>
+            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=111539&deliveryTracking_ordType=baeminStore">주문내역3</a>
         </td>
     </tr>
       
