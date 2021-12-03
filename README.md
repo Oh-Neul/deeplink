@@ -64,7 +64,7 @@
             스토어 주문 이동
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://home/deliveryTracking?deliveryTracking_ordType=baeminStore">baeminStore</a>
+            <a class="baeminScheme" href="baemin-beta://gateway/home?home_serviceTab=BAEMIN_STORE&home_BAEMIN_STORE_mainRef=Gateway">baeminStore</a>
         </td>
     </tr>
       <tr>
