@@ -104,10 +104,18 @@
     </tr>
       <tr>
         <td>
-            딥링크 메시지
+            주문내역1
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-action-beta://showToast?showToast_message=가나다라 메시지 Message 1234 !@#$">가나다라 Toast 메시지 Message 1234 !@#$</a>
+            <a class="baeminScheme" href="baemin-beta://home/orderHistory?orderHistory_type=baeminStore">주문내역1</a>
+        </td>
+    </tr>
+       <tr>
+        <td>
+            주문내역2
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./orderHistory?orderHistory_type=baeminStore">주문내역2</a>
         </td>
     </tr>
       
