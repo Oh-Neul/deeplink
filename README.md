@@ -41,7 +41,7 @@
             storesearch-352
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={Gateway}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={Gateway}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={Gateway}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={Gateway}</a>
         </td>
     </tr>
     <tr>
