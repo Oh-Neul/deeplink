@@ -13,141 +13,252 @@
     <tbody>
     <tr>
         <td>
-            베타 배민앱 메인화면 이동
+            storesearch-349
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://home">baemin-beta://home</a>
+            <a class="baeminScheme" href="baemin-beta://./search?search_query={치킨}&search_ref={}">baemin-beta://./search?search_query={치킨}&search_ref={}
+</a>
         </td>
     </tr>
     <tr>
         <td>
-            베타 배민앱 주소설정 이동
+            storesearch-350
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./locationSettings">baemin-beta://./locationSettings</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
         </td>
     </tr>
     <tr>
         <td>
-            베타 배민앱 큐레이션 이동
+            storesearch-351
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./curationShopList">baemin-beta://./curationShopList</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={Gateway}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={Gateway}</a>
         </td>
     </tr>
     <tr>
         <td>
-            운영 배민앱 큐레이션 이동
+            storesearch-352
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://./curationShopList">baemin://./curationShopList</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={Gateway}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={Gateway}</a>
         </td>
     </tr>
-      <tr>
+    <tr>
         <td>
-            배민주문 이동
+            storesearch-353
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://home/deliveryTracking?deliveryTracking_ordType=baemin">baemin</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            마켓 주문 이동
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin://home/deliveryTracking?deliveryTracking_ordType=market">market</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={LiveCommerceHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={LiveCommerceHome}</a>
         </td>
     </tr>
-      <tr>
+    <tr>
         <td>
-            배민스토어 이동
+            storesearch-354
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://gateway/home?home_serviceTab=BAEMIN_STORE&home_BAEMIN_STORE_mainRef=Gateway">baeminStore</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            배민스토어 리뷰 이동
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/reviewManage?reviewManage_tab=BAEMIN_STORE">baeminStoreReview</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-            배민스토어 찜 이동
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./favorite?favorite_serviceTab=BAEMIN_STORE">baeminStoreFavorite</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-            (상대경로)<br>
-            열혈분식 방이점 가게 상세 이동
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./shopDetail?shopDetail_shopNo=10663860">baemin-beta://./shopDetail?shopDetail_shopNo=10663860</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={LiveCommerceHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={LiveCommerceHome}</a>
         </td>
     </tr>
-      <tr>
+    <tr>
         <td>
-            (절대경로)<br>
-            열혈분식 방이점 가게 상세 이동
+            storesearch-355
         </td>
         <td>
-<a class="baeminScheme" href="baemin-beta://home/shopDetail?shopDetail_shopNo=10663860">baemin-beta://home/shopDetail?shopDetail_shopNo=10663860</a><br>
-            <a class="baeminScheme" href="baemin-beta://home/shopList/shopDetail?shopList_categoryCode=33&shopDetail_shopNo=10663860">baemin-beta://home/shopList/shopDetail?shopList_categoryCode=33&shopDetail_shopNo=10663860</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-            배달현황
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./shopDetail/menuDetail?shopDetail_shopNo=13009755&menuDetail_shopNo=13009755&menuDetail_menuNo=32479007&menuDetail_categoryTypeCode=1">이동</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={LiveCommerceHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={LiveCommerceHome}</a>
         </td>
     </tr>
-      <tr>
+    <tr>
         <td>
-            장바구니 이동
+            storesearch-356
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./cart">장바구니</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            주문내역1
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/orderHistory?orderHistory_type=baeminStore">주문내역1</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={Gateway}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={Gateway}</a>
         </td>
     </tr>
-       <tr>
+    <tr>
         <td>
-            주문내역2
+            storesearch-357
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./orderHistory?orderHistory_type=baeminStore">주문내역2</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            주문내역3
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./deliveryTracking?deliveryTracking_orderNo=111539&deliveryTracking_ordType=baeminStore">주문내역3</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={GiftHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={GiftHome}</a>
         </td>
     </tr>
-      
-      
-      
-      
-      
+    <tr>
+        <td>
+            storesearch-358
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={GiftHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={GiftHome}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-359
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={GiftHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={GiftHome}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-360
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={DirectFarmHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={BBQ}&searchResult_filters={}&searchResult_ref={DirectFarmHome}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-361
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={DirectFarmHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={DirectFarmHome}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-362
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={DirectFarmHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={DirectFarmHome}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-363
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={DirectFarmHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={DirectFarmHome}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-364
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={Deeplink}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={Deeplink}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-365
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={Deeplink}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={티셔츠}&searchResult_filters={}&searchResult_ref={Deeplink}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-368
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-371
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref={}
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-372
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query={우유}&searchResult_filters={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query={우유}&searchResult_filters={}&searchResult_ref={}
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-373
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-374
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-375
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-376
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query={우유}&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-377
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={샴푸}&searchResult_filters={}&searchResult_ref={}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-378
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-379
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-380
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-381
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+        </td>
+    </tr>
+ 
 </table>
-    
   </body>
 </html>
