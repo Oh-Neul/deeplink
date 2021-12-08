@@ -129,7 +129,7 @@
             storesearch-363
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=티셔츠&searchResult_filters={}&searchResult_ref={DirectFarmHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=티셔츠&searchResult_filters={}&searchResult_ref={DirectFarmHome}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=BBQ&searchResult_filters={}&searchResult_ref={Deeplink}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=BBQ&searchResult_filters={}&searchResult_ref={Deeplink}</a>
         </td>
     </tr>
     <tr>
