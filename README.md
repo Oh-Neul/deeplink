@@ -173,8 +173,8 @@
             storesearch-372
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query=우유&searchResult_filters={}&searchResult_ref={}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query=우유&searchResult_filters={}&searchResult_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query=우유&searchResult_filters={}&searchResult_ref={BaeminStoreHome}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query=우유&searchResult_filters={}&searchResult_ref={BaeminStoreHome}
 </a>
         </td>
     </tr>
