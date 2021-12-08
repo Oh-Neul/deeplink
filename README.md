@@ -173,8 +173,8 @@
             storesearch-372
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query=우유&searchResult_filters={}&searchResult_ref={BaeminStoreHome}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={BaeminStoreHome}&searchResult_query=우유&searchResult_filters={}&searchResult_ref={BaeminStoreHome}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
 </a>
         </td>
     </tr>
@@ -193,8 +193,8 @@
             storesearch-374
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
 </a>
         </td>
     </tr>
@@ -203,8 +203,8 @@
             storesearch-375
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
 </a>
         </td>
     </tr>
@@ -213,8 +213,8 @@
             storesearch-376
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={QuickCommerce}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN_STORE}&searchResult_query=우유&searchResult_sellerId={}&searchResult_shopId={}&searchResult_ref={}
 </a>
         </td>
     </tr>
