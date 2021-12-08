@@ -153,8 +153,8 @@
             storesearch-368
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={TakeOutHome}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={TakeOutHome}
 </a>
         </td>
     </tr>
