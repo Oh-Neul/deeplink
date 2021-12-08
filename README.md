@@ -16,7 +16,7 @@
             storesearch-349
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search?search_query=치킨&search_ref={}">baemin-beta://./search?search_query={치킨}&search_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search?search_query=치킨&search_ref={}">baemin-beta://./search?search_query=치킨&search_ref={}
 </a>
         </td>
     </tr>
@@ -25,7 +25,7 @@
             storesearch-350
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}</a>
         </td>
     </tr>
     <tr>
@@ -153,8 +153,8 @@
             storesearch-368
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}
 </a>
         </td>
     </tr>
@@ -163,8 +163,8 @@
             storesearch-371
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref={}
-">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query={치킨}&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref={}
+">baemin-beta://./search/searchResult?searchResult_serviceTab={BAEMIN}&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref={}
 </a>
         </td>
     </tr>
@@ -231,7 +231,7 @@
             storesearch-378
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}</a>
         </td>
     </tr>
     <tr>
@@ -239,7 +239,7 @@
             storesearch-379
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}</a>
         </td>
     </tr>
     <tr>
@@ -247,7 +247,7 @@
             storesearch-380
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_serviceTab={BMART}&searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}</a>
         </td>
     </tr>
     <tr>
@@ -255,7 +255,7 @@
             storesearch-381
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_query={치킨}&searchResult_filters={}&searchResult_ref={}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}">baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_filters={}&searchResult_ref={}</a>
         </td>
     </tr>
  
