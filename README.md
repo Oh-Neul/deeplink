@@ -16,7 +16,7 @@
             storesearch-349
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search?search_query={치킨}&search_ref={}">baemin-beta://./search?search_query={치킨}&search_ref={}
+            <a class="baeminScheme" href="baemin-beta://./search?search_query=치킨&search_ref={}">baemin-beta://./search?search_query={치킨}&search_ref={}
 </a>
         </td>
     </tr>
@@ -260,6 +260,3 @@
     </tr>
  
 
-
-</body>
-</html>
