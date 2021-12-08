@@ -65,7 +65,7 @@
             storesearch-355
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={LiveCommerceHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={LiveCommerceHome}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={LiveCommerceHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={LiveCommerceHome}</a>
         </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@
             storesearch-358
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={GiftHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={GiftHome}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={GiftHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={GiftHome}</a>
         </td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@
             storesearch-361
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={DirectFarmHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={DirectFarmHome}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={DirectFarmHome}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={DirectFarmHome}</a>
         </td>
     </tr>
     <tr>
@@ -137,7 +137,7 @@
             storesearch-364
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={Deeplink}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=샴푸&searchResult_filters={}&searchResult_ref={Deeplink}</a>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={Deeplink}">baemin-beta://./search/searchResult?searchResult_serviceTab={ALL}&searchResult_query=퍼퓸&searchResult_filters={}&searchResult_ref={Deeplink}</a>
         </td>
     </tr>
     <tr>
