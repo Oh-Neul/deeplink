@@ -361,7 +361,7 @@
     </tr>
     <tr>
         <td>
-            storesearch-216
+            storesearch-215
         </td>
         <td>
           <a class="baeminScheme" href="baemin://home/orderHistory?orderHistory_type=baeminStore">baemin://home/orderHistory?orderHistory_type=baeminStore</a>
@@ -369,7 +369,7 @@
     </tr>
     <tr>
         <td>
-            storesearch-217
+            storesearch-216
         </td>
         <td>
           <a class="baeminScheme" href="baemin://./orderHistory?orderHistory_type=baeminStore">baemin://./orderHistory?orderHistory_type=baeminStore</a>
@@ -377,7 +377,7 @@
     </tr>
     <tr>
         <td>
-            storesearch-233, 234
+            storesearch-232, 233
         </td>
         <td>
           <a class="baeminScheme" href="baemin://./favorite?favorite_serviceTab=BAEMIN_STORE">baemin://./favorite?favorite_serviceTab=BAEMIN_STORE</a>
@@ -385,7 +385,7 @@
     </tr>
     <tr>
         <td>
-            storesearch-264, 265
+            storesearch-263, 264
         </td>
         <td>
           <a class="baeminScheme" href="baemin://home/reviewManage?reviewManage_tab=BAEMIN_STORE">baemin://home/reviewManage?reviewManage_tab=BAEMIN_STORE</a>
