@@ -361,6 +361,22 @@
     </tr>
     <tr>
         <td>
+            storesearch-216
+        </td>
+        <td>
+          <a class="baeminScheme" href="baemin://home/orderHistory?orderHistory_type=baeminStore">baemin://home/orderHistory?orderHistory_type=baeminStore</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            storesearch-217
+        </td>
+        <td>
+          <a class="baeminScheme" href="baemin://./orderHistory?orderHistory_type=baeminStore">baemin://./orderHistory?orderHistory_type=baeminStore</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             storesearch-233, 234
         </td>
         <td>
