@@ -353,6 +353,14 @@
     </tr>
     <tr>
         <td>
+            storesearch-176, 177, 178
+        </td>
+        <td>
+          <a class="baeminScheme" href="baemin://gateway/home?home_serviceTab=BAEMIN_STORE&home_BAEMIN_STORE_mainRef=Gateway">baemin://gateway/home?home_serviceTab=BAEMIN_STORE&home_BAEMIN_STORE_mainRef=Gateway</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             storesearch-233, 234
         </td>
         <td>
