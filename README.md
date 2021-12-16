@@ -123,7 +123,7 @@
             storesearch-147
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=Gateway</a>
         </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@
             storesearch-148
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Gateway</a>
         </td>
     </tr>
     <tr>
@@ -139,7 +139,7 @@
             storesearch-149
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
         </td>
     </tr>
     <tr>
@@ -147,7 +147,7 @@
             storesearch-150
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
         </td>
     </tr>
     <tr>
@@ -155,7 +155,7 @@
             storesearch-151
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
         </td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@
             storesearch-152
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Gateway</a>
         </td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@
             storesearch-153
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=GiftHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=GiftHome</a>
         </td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@
             storesearch-154
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=GiftHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=GiftHome</a>
         </td>
     </tr>
     <tr>
@@ -187,7 +187,7 @@
             storesearch-155
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=GiftHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=GiftHome</a>
         </td>
     </tr>
     <tr>
@@ -195,7 +195,7 @@
             storesearch-156
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
         </td>
     </tr>
     <tr>
@@ -203,7 +203,7 @@
             storesearch-157
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
         </td>
     </tr>
     <tr>
@@ -211,7 +211,7 @@
             storesearch-158
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
         </td>
     </tr>
     <tr>
@@ -219,14 +219,14 @@
             storesearch-159
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=BBQ&searchResult_filters=&searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=피자헛&searchResult_filters=&searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
         <td>
             storesearch-160
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=퍼퓸&searchResult_filters=&searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@
             storesearch-161
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=티셔츠&searchResult_filters=&searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
