@@ -16,70 +16,70 @@
             storesearch-145
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=Gateway">baemin://./search?search_query=치킨&search_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=Gateway">baemin://./search?search_query=떡볶이&search_ref=Gateway</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=DeliveryHome">baemin://./search?search_query=치킨&search_ref=DeliveryHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=DeliveryHome">baemin://./search?search_query=떡볶이&search_ref=DeliveryHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=TakeOutHome">baemin://./search?search_query=치킨&search_ref=TakeOutHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=TakeOutHome">baemin://./search?search_query=떡볶이&search_ref=TakeOutHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=MarketHome">baemin://./search?search_query=치킨&search_ref=MarketHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=MarketHome">baemin://./search?search_query=떡볶이&search_ref=MarketHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=LiveCommerceHome">baemin://./search?search_query=치킨&search_ref=LiveCommerceHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=LiveCommerceHome">baemin://./search?search_query=떡볶이&search_ref=LiveCommerceHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=GiftHome">baemin://./search?search_query=치킨&search_ref=GiftHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=GiftHome">baemin://./search?search_query=떡볶이&search_ref=GiftHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=DirectFarmHome">baemin://./search?search_query=치킨&search_ref=DirectFarmHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=DirectFarmHome">baemin://./search?search_query=떡볶이&search_ref=DirectFarmHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=Deeplink">baemin://./search?search_query=치킨&search_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=Deeplink">baemin://./search?search_query=떡볶이&search_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=BaeminOneHome">baemin://./search?search_query=치킨&search_ref=BaeminOneHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=BaeminOneHome">baemin://./search?search_query=떡볶이&search_ref=BaeminOneHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=치킨&search_ref=BaeminStoreHome">baemin://./search?search_query=치킨&search_ref=BaeminStoreHome</a>
+          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=BaeminStoreHome">baemin://./search?search_query=떡볶이&search_ref=BaeminStoreHome</a>
         </td>
     </tr>
     <tr>
@@ -87,35 +87,35 @@
             storesearch-146
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=Gateway</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=GiftHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=GiftHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@
             storesearch-148
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=Gateway</a>
         </td>
     </tr>
     <tr>
@@ -155,7 +155,7 @@
             storesearch-151
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
         </td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@
             storesearch-154
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=GiftHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=GiftHome</a>
         </td>
     </tr>
     <tr>
@@ -203,7 +203,7 @@
             storesearch-157
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
         </td>
     </tr>
     <tr>
@@ -226,7 +226,7 @@
         <td>
             storesearch-160
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=신발&searchResult_filters=&searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=칫솔&searchResult_filters=&searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
@@ -242,28 +242,28 @@
             storesearch-164
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=DeliveryHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=DeliveryHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=BaeminOneHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=BaeminOneHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=TakeOutHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=TakeOutHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
@@ -271,28 +271,28 @@
             storesearch-165
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=DeliveryHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=DeliveryHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=DeliveryHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=DeliveryHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=BaeminOneHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=BaeminOneHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=BaeminOneHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=BaeminOneHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=TakeOutHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=TakeOutHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=TakeOutHome">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=TakeOutHome</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=떡볶이&searchResult_filters=%7B%22otherFilters%22%3A%5B%7B%22code%22%3A%22OTHER__BAEMIN_ORDER%22%7D%5D%7D%0A &searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
@@ -340,7 +340,7 @@
             storesearch-171
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=치킨&searchResult_filters=&searchResult_ref=MarketHome">baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=치킨&searchResult_filters=&searchResult_ref=MarketHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=MarketHome">baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=MarketHome</a>
         </td>
     </tr>
     <tr>
@@ -348,7 +348,7 @@
             storesearch-172
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=치킨&searchResult_filters=&searchResult_ref=MarketHome">baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=치킨&searchResult_filters=&searchResult_ref=MarketHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=MarketHome">baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=MarketHome</a>
         </td>
     </tr>
     <tr>
@@ -367,6 +367,3 @@
           <a class="baeminScheme" href="baemin://./favorite?favorite_serviceTab=BAEMIN_STORE">baemin://./favorite?favorite_serviceTab=BAEMIN_STORE</a>
         </td>
     </tr>
-
-      
-      
