@@ -340,7 +340,7 @@
             storesearch-171
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=MarketHome">baemin://./search/searchResult?search_serviceTab=BAEMIN_STORE&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=MarketHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?search_serviceTab=BMART&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=BMART">baemin://./search/searchResult?search_serviceTab=BMART&searchResult_serviceTab=BMART&searchResult_query=떡볶이&searchResult_filters=&searchResult_ref=BMART</a>
         </td>
     </tr>
     <tr>
