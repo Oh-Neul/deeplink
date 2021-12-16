@@ -366,7 +366,6 @@
         <td>
           <a class="baeminScheme" href="baemin://./favorite?favorite_serviceTab=BAEMIN_STORE">baemin://./favorite?favorite_serviceTab=BAEMIN_STORE</a>
         </td>
-    </tr>
 
       
       
