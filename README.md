@@ -139,7 +139,7 @@
             storesearch-149
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=LiveCommerceHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=LiveCommerceHome</a>
         </td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@
             storesearch-152
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=Gateway">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=Gateway</a>
         </td>
     </tr>
     <tr>
@@ -187,7 +187,7 @@
             storesearch-155
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=GiftHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=GiftHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=GiftHome</a>
         </td>
     </tr>
     <tr>
@@ -211,7 +211,7 @@
             storesearch-158
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=DirectFarmHome">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=DirectFarmHome</a>
         </td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@
             storesearch-161
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=올가&searchResult_filters=&searchResult_ref=Deeplink</a>
+          <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=Deeplink">baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=코트&searchResult_filters=&searchResult_ref=Deeplink</a>
         </td>
     </tr>
     <tr>
