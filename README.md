@@ -356,7 +356,7 @@
             storesearch-233, 234
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://home/reviewManage?reviewManage_tab=BAEMIN_STORE">baemin://home/reviewManage?reviewManage_tab=BAEMIN_STORE</a>
+          <a class="baeminScheme" href="baemin://./favorite?favorite_serviceTab=BAEMIN_STORE">baemin://./favorite?favorite_serviceTab=BAEMIN_STORE</a>
         </td>
     </tr>
     <tr>
@@ -364,6 +364,6 @@
             storesearch-264, 265
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./favorite?favorite_serviceTab=BAEMIN_STORE">baemin://./favorite?favorite_serviceTab=BAEMIN_STORE</a>
+          <a class="baeminScheme" href="baemin://home/reviewManage?reviewManage_tab=BAEMIN_STORE">baemin://home/reviewManage?reviewManage_tab=BAEMIN_STORE</a>
         </td>
     </tr>
