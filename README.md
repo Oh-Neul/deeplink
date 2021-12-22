@@ -13,6 +13,14 @@
     <tbody>
     <tr>
         <td>
+            베타 배민앱 메인화면 이동
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://home">baemin-beta://home</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
             storesearch-145
         </td>
         <td>
