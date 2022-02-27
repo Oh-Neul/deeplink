@@ -38,14 +38,14 @@
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=TakeOutHome">baemin://./search?search_query=떡볶이&search_ref=TakeOutHome</a>
+          <a class="baeminScheme" href="https://client-short-url.beta.baemin.com/2b0PsCOIZ">https://client-short-url.beta.baemin.com/2b0PsCOIZ</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=MarketHome">baemin://./search?search_query=떡볶이&search_ref=MarketHome</a>
+          <a class="baeminScheme" href="https://client-short-url.beta.baemin.com/xFIa6NrS2?sno=13004769&cid=22974">https://client-short-url.beta.baemin.com/xFIa6NrS2?sno=13004769&cid=22974</a>
         </td>
     </tr>
     <tr>
