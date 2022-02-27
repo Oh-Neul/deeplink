@@ -1,4 +1,4 @@
-# App Scheme Test Page 11.13.0 (운영)
+# App Scheme Test Page 11.17.1 (운영)
 
 <html>
   <head></head>
@@ -24,14 +24,14 @@
             storesearch-145
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=Gateway">baemin://./search?search_query=떡볶이&search_ref=Gateway</a>
+          <a class="baeminScheme" href="baemin-beta://./shopDetail?shopDetail_shopNo=13001403">baemin-beta://./shopDetail?shopDetail_shopNo=13001403</a>
         </td>
     </tr>
     <tr>
         <td>
         </td>
         <td>
-          <a class="baeminScheme" href="baemin://./search?search_query=떡볶이&search_ref=DeliveryHome">baemin://./search?search_query=떡볶이&search_ref=DeliveryHome</a>
+          <a class="baeminScheme" href="baemin-beta://./shopDetail?shopDetail_shopNo=13001458">baemin-beta://./shopDetail?shopDetail_shopNo=13001458</a>
         </td>
     </tr>
     <tr>
