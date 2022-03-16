@@ -74,14 +74,6 @@
       <tr>
         <td></td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome">
-              baemin-beta://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome
-          </a>
-        </td>
-    </tr>
-      <tr>
-        <td></td>
-        <td>
             <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">
               baemin-beta://./search/searchResult?searchResult_serviceTab=BAEMIN&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink
           </a>
@@ -91,22 +83,6 @@
         <td>
             search-232
         </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome">
-              baemin-beta://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome
-          </a>
-        </td>
-    </tr>
-      <tr>
-        <td></td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome">
-              baemin-beta://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome
-          </a>
-        </td>
-    </tr>
-      <tr>
-        <td></td>
         <td>
             <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome">
               baemin-beta://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome
