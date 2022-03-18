@@ -97,5 +97,15 @@
           </a>
         </td>
     </tr>
+      <tr>
+        <td>
+          WOOWAQA-804
+      </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./takeoutShopList">
+            baemin-beta://./takeoutShopList
+            </a>
+        </td>
+    </tr>
     </tbody>
       
