@@ -13,6 +13,92 @@
     <tbody>
     <tr>
         <td>
+            search-58
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Gateway">
+              baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Gateway
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=LiveCommerceHome">
+              baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=LiveCommerceHome
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td></td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=GiftHome">
+              baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=GiftHome
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td></td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DirectFarmHome">
+              baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DirectFarmHome
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td></td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">
+              baemin://./search/searchResult?searchResult_serviceTab=ALL&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            search-59
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome">
+              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td></td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome">
+              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td></td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">
+              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            search-60
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome">
+              baemin://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=TakeOutHome
+          </a>
+        </td>
+    </tr>
+      <tr>
+        <td></td>
+        <td>
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">
+              baemin://./search/searchResult?searchResult_serviceTab=TAKEOUT&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
             search-226
         </td>
         <td>
