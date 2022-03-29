@@ -13,11 +13,11 @@
     <tbody>
     <tr>
         <td>
-            search-58
+            KOREAN
         </td>
         <td>
             <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_categoryCode=KOREAN&shopList_displayCategory=KOREAN">
-              baemin-beta://home/shopList?shopList_categoryCode=&shopList_displayCategory=
+              baemin-beta://home/shopList?shopList_categoryCode=KOREAN&shopList_displayCategory=KOREAN
           </a>
         </td>
     </tr>
