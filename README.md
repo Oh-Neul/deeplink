@@ -25,9 +25,8 @@
         <td>ㅇㅇㅇ</td>
         <td>
             <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_categoryCode=&shopList_displayCategory=KOREAN">
-baemin-beta://home/shopList?shopList_categoryCode=<categoryCode>&shopList_displayCategory=KOREAN
-              </a>
+              baemin-beta://home/shopList?shopList_categoryCode=<categoryCode>&shopList_displayCategory=KOREAN
+            </a>
         </td>
     </tr>
-    </tbody>
-      
+              </tbody>
