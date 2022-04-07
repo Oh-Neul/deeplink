@@ -16,8 +16,8 @@
             배달탭
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome">
-              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome">
+              baemin-beta://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome
           </a>
         </td>
     </tr>
@@ -25,8 +25,8 @@
         <td>
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome">
-              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome">
+              baemin-beta://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=BaeminOneHome
           </a>
         </td>
     </tr>
@@ -34,8 +34,8 @@
         <td>
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">
-              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink">
+              baemin-beta://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=Deeplink
           </a>
         </td>
     </tr>
