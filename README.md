@@ -16,8 +16,8 @@
             배달탭
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_ref=DeliveryHome">
-              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_ref=DeliveryHome
+            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome">
+              baemin://./search/searchResult?searchResult_serviceTab=DELIVERY&searchResult_query=치킨&searchResult_filters=&searchResult_ref=DeliveryHome
           </a>
         </td>
     </tr>
