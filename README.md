@@ -1,4 +1,4 @@
-# App Scheme Test Page 11.23.0
+# App Scheme Test Page 11.25.0
 
 <html>
   <head></head>
@@ -13,151 +13,21 @@
     <tbody>
     <tr>
         <td>
-            돈까스•회•일식
+            장바구니
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=JAPANESE">
-              baemin-beta://home/shopList?shopList_displayCategory=JAPANESE
+            <a class="baeminScheme" href="baemin-beta://./cart">
+              baemin-beta://./cart
           </a>
         </td>
     </tr>
     <tr>
         <td>
-            중식
+            링크
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=CHINESE">
-              baemin-beta://home/shopList?shopList_displayCategory=CHINESE
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            치킨
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=CHICKEN">
-              baemin-beta://home/shopList?shopList_displayCategory=CHICKEN
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            백반•죽•국수
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=BAEKBAN">
-              baemin-beta://home/shopList?shopList_displayCategory=BAEKBAN
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            카페•디저트
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=CAFE">
-              baemin-beta://home/shopList?shopList_displayCategory=CAFE
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            분식
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=SNACK">
-              baemin-beta://home/shopList?shopList_displayCategory=SNACK
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            찜•탕•찌개
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=ZZIM_TANG">
-              baemin-beta://home/shopList?shopList_displayCategory=ZZIM_TANG
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            피자
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=PIZZA">
-              baemin-beta://home/shopList?shopList_displayCategory=PIZZA
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            양식
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=WESTERN">
-              baemin-beta://home/shopList?shopList_displayCategory=WESTERN
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            고기•구이
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=MEAT">
-              baemin-beta://home/shopList?shopList_displayCategory=MEAT
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            족발•보쌈
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=JOKBAL">
-              baemin-beta://home/shopList?shopList_displayCategory=JOKBAL
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            아시안
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=ASIAN">
-              baemin-beta://home/shopList?shopList_displayCategory=ASIAN
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            패스트푸드
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=FASTFOOD">
-              baemin-beta://home/shopList?shopList_displayCategory=FASTFOOD
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            야식
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=NIGHTSNACK">
-              baemin-beta://home/shopList?shopList_displayCategory=NIGHTSNACK
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            도시락
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopList?shopList_displayCategory=DOSIRAK">
-              baemin-beta://home/shopList?shopList_displayCategory=DOSIRAK
+            <a class="baeminScheme" href="[baemin-beta://home/shopList?shopList_displayCategory=CHINESE](https://pay-platform.beta.baemin.com/baemin?orderNumber=B17O000CCV&siteCode=BAEMIN&city=%EC%84%9C%EC%9A%B8&addressId=F148705&doro=%EC%98%AC%EB%A6%BC%ED%94%BD%EB%A1%9C35%EB%8B%A4%EA%B8%B8%2042%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&dong=%EC%8B%A0%EC%B2%9C%EB%8F%99%207-20%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&lng=127.10298336&nickName=&title=%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&favoriteAddressType=ETC&lat=37.51532349&detail=&gu=%EC%86%A1%ED%8C%8C%EA%B5%AC&exdata=)">
+              https://pay-platform.beta.baemin.com/baemin?orderNumber=B17O000CCV&siteCode=BAEMIN&city=%EC%84%9C%EC%9A%B8&addressId=F148705&doro=%EC%98%AC%EB%A6%BC%ED%94%BD%EB%A1%9C35%EB%8B%A4%EA%B8%B8%2042%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&dong=%EC%8B%A0%EC%B2%9C%EB%8F%99%207-20%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&lng=127.10298336&nickName=&title=%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&favoriteAddressType=ETC&lat=37.51532349&detail=&gu=%EC%86%A1%ED%8C%8C%EA%B5%AC&exdata=
           </a>
         </td>
     </tr>
