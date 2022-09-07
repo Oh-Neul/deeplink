@@ -1,4 +1,4 @@
-# App Scheme Test Page 11.25.0
+# App Scheme Test Page 11.31.0
 
 <html>
   <head></head>
@@ -13,22 +13,42 @@
     <tbody>
     <tr>
         <td>
-            장바구니
+            정렬, 필터 미적용 딥링크 진입시 UI
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./cart">
-              baemin-beta://./cart
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY">
+              클릭
           </a>
         </td>
     </tr>
     <tr>
       <td>
-          링크
+          정렬, 필터 적용 딥링크 진입시 UI
       </td>
       <td>
-          <a class="baeminScheme" href="https://pay-platform.beta.baemin.com/baemin?orderNumber=B17O000CCV&siteCode=BAEMIN&city=%EC%84%9C%EC%9A%B8&addressId=F148705&doro=%EC%98%AC%EB%A6%BC%ED%94%BD%EB%A1%9C35%EB%8B%A4%EA%B8%B8%2042%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&dong=%EC%8B%A0%EC%B2%9C%EB%8F%99%207-20%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&lng=127.10298336&nickName=&title=%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&favoriteAddressType=ETC&lat=37.51532349&detail=&gu=%EC%86%A1%ED%8C%8C%EA%B5%AC&exdata=">
-            https://pay-platform.beta.baemin.com/baemin?orderNumber=B17O000CCV&siteCode=BAEMIN&city=%EC%84%9C%EC%9A%B8&addressId=F148705&doro=%EC%98%AC%EB%A6%BC%ED%94%BD%EB%A1%9C35%EB%8B%A4%EA%B8%B8%2042%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&dong=%EC%8B%A0%EC%B2%9C%EB%8F%99%207-20%20%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&lng=127.10298336&nickName=&title=%EB%A3%A8%ED%84%B0%ED%9A%8C%EA%B4%80%EB%B9%8C%EB%94%A9&favoriteAddressType=ETC&lat=37.51532349&detail=&gu=%EC%86%A1%ED%8C%8C%EA%B5%AC&exdata=
+          <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__BAEMIN_ONE%22%7d%5d%7d">
+            클릭
         </a>
       </td>
+    </tr>
+    <tr>
+      <td>
+          정렬, 필터 적용 딥링크 진입시 Request 데이터 확인
+      </td>
+      <td>
+          <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__BAEMIN_ONE%22%7d%5d%7d">
+            클릭
+        </a>
+      </td>
+    </tr>
+    <tr>
+        <td>
+            정렬, 필터 적용 딥링크 진입 후 포장탭 선택시 API 호출 확인
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__BAEMIN_ONE%22%7d%5d%7d">
+              클릭
+          </a>
+        </td>
     </tr>
     </tbody>
