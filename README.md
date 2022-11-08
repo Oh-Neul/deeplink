@@ -26,8 +26,8 @@
           딥링크 2
       </td>
       <td>
-          <a class="baeminScheme" href="baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_ALL&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
-           baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_ALL&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+          <a class="baeminScheme" href="baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO_BAEMIN&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_BAEMIN_ALL&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+           baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO_BAEMIN&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_BAEMIN_ALL&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
         </a>
       </td>
     </tr>
@@ -36,8 +36,8 @@
           딥링크 3
       </td>
       <td>
-          <a class="baeminScheme" href="baemin-beta://./soloShopList?soloShopList_displayCategoryCode=SOLO_SNACK&soloShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
-            baeminScheme" href="baemin-beta://./soloShopList?soloShopList_displayCategoryCode=SOLO_SNACK&soloShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+          <a class="baeminScheme" href="baemin-beta://./soloShopList?soloShopList_displayCategoryCode=SOLO_BAEMIN_SNACK&soloShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+            baemin-beta://./soloShopList?soloShopList_displayCategoryCode=SOLO_BAEMIN_SNACK&soloShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
         </a>
       </td>
     </tr>
