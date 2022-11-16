@@ -1,1 +1,75 @@
+# App Scheme Test Page 11.35.0
+
+<html>
+  <head></head>
+  <body>
+    <table class="table table-striped">
+    <thead>
+    <tr>
+        <th scope="col">구분</th>
+        <th scope="col">경로</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>
+            딥링크 1
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./shopList?shopList_categoryCode=1&shopList_displayCategory=1&shopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+              baemin-beta://./shopList?shopList_categoryCode=1&shopList_displayCategory=1&shopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+          </a>
+        </td>
+    </tr>
+    <tr>
+      <td>
+          딥링크 2
+      </td>
+      <td>
+          <a class="baeminScheme" href="baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO_BAEMIN&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_BAEMIN_ALL&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+           baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO_BAEMIN&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_BAEMIN_ALL&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          딥링크 3
+      </td>
+      <td>
+          <a class="baeminScheme" href="baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO_BAEMIN&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_BAEMIN_SNACK&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+            baemin-beta://./responsiveShopList?responsiveShopList_displayGroup=SOLO_BAEMIN&responsiveShopList_title=1인분&responsiveShopList_displayCategoryCode=SOLO_BAEMIN_SNACK&responsiveShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+        </a>
+      </td>
+    </tr>
+    <tr>
+        <td>
+            딥링크 4
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+              baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+          </a>
+        </td>
+    </tr>
+    <tr>
+      <td>
+          딥링크 5
+      </td>
+      <td>
+          <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=pizza&searchResult_serviceTab=TAKEOUT&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__DISTANCE%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22STAR_SCORE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22STAR_SCORE__MORE_THAN_35%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__USE_RESERVATION_ORDER%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON_DISCOUNT%22%7d%5d%7d">
+            baemin-beta://./search/searchResult?searchResult_query=pizza&searchResult_serviceTab=TAKEOUT&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__DISTANCE%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22STAR_SCORE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22STAR_SCORE__MORE_THAN_35%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__USE_RESERVATION_ORDER%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON_DISCOUNT%22%7d%5d%7d
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          딥링크 6
+      </td>
+      <td>
+          <a class="baeminScheme" href="baemin-beta://./neoShopList?neoShopList_displayGroup=BAEMIN_ONE&neoShopList_displayCategoryCode=BAEMIN_ONE_ZZIM_TANG&neoShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+            baemin-beta://./neoShopList?neoShopList_displayGroup=BAEMIN_ONE&neoShopList_displayCategoryCode=BAEMIN_ONE_ZZIM_TANG&neoShopList_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+        </a>
+      </td>
+    </tr>
+    </tbody>
 
