@@ -53,8 +53,8 @@
           동적카테고리 배달
       </td>
       <td>
-          <a class="baeminScheme" href="baemin-beta://./shopList?shopList_categoryCode=1&shopList_displayCategory=CHICKEN&ShopList_referrer=CTB_MAIN_HOME">
-           baemin-beta://./shopList?shopList_categoryCode=1&shopList_displayCategory=CHICKEN&ShopList_referrer=CTB_MAIN_HOME
+          <a class="baeminScheme" href="baemin-beta://./shopList?shopList_categoryCode=1&shopList_displayCategory=CHICKEN&shopList_referrer=CTB_MAIN_HOME">
+           baemin-beta://./shopList?shopList_categoryCode=1&shopList_displayCategory=CHICKEN&shopList_referrer=CTB_MAIN_HOME
         </a>
       </td>
     </tr>
@@ -103,8 +103,8 @@
           동적카테고리 배달
       </td>
       <td>
-          <a class="baeminScheme" href="baemin-beta://./shopList?shopList_categoryCode=7&shopList_displayCategory=FASTFOOD&ShopList_referrer=CTB_DELIVERY_HOME">
-           baemin-beta://./shopList?shopList_categoryCode=7&shopList_displayCategory=FASTFOOD&ShopList_referrer=CTB_DELIVERY_HOME
+          <a class="baeminScheme" href="baemin-beta://./shopList?shopList_categoryCode=7&shopList_displayCategory=FASTFOOD&shopList_referrer=CTB_DELIVERY_HOME">
+           baemin-beta://./shopList?shopList_categoryCode=7&shopList_displayCategory=FASTFOOD&shopList_referrer=CTB_DELIVERY_HOME
         </a>
       </td>
     </tr>
