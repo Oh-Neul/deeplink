@@ -108,4 +108,21 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>.
+      </td>
+      <td>
+          .
+      </td>
+    </tr>
+    <tr>
+      <td>
+          검색결과-포장
+      </td>
+      <td>
+          <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d">
+           baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY&searchResult_filters=%7b%22sorts%22%3a%5b%7b%22code%22%3a%22SORT__FAST%22%7d%5d%2c%22filters%22%3a%5b%7b%22type%22%3a%22MINIMUM_ORDER_PRICE%22%2c%22options%22%3a%5b%7b%22code%22%3a%22MINIMUM_ORDER_PRICE__LOWER_THAN_5000%22%7d%5d%7d%5d%2c%22toggleFilters%22%3a%5b%7b%22code%22%3a%22OTHER__SOLO%22%7d%2c%7b%22code%22%3a%22OTHER__COUPON%22%7d%5d%7d
+        </a>
+      </td>
+    </tr>
     </tbody>
