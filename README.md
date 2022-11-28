@@ -12,6 +12,60 @@
     </thead>
     <tbody>
     <tr>
+      <td>운영
+      </td>
+      <td>
+          운영
+      </td>
+    </tr>
+    <tr>
+        <td>
+            메인홈-응답형
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://./responsiveShopList?responsiveShopList_displayGroup=BAEMIN_CTB_SALAD&responsiveShopList_displayCategory=BAEMIN_CTB_SALAD_ALL&responsiveShopList_title=%ED%91%B8%EC%A7%90%ED%95%9C%20%EC%83%90%EB%9F%AC%EB%93%9C&responsiveShopList_referrer=CTB_MAIN_HOME">
+              baemin://./responsiveShopList?responsiveShopList_displayGroup=BAEMIN_CTB_SALAD&responsiveShopList_displayCategory=BAEMIN_CTB_SALAD_ALL&responsiveShopList_title=%ED%91%B8%EC%A7%90%ED%95%9C%20%EC%83%90%EB%9F%AC%EB%93%9C&responsiveShopList_referrer=CTB_MAIN_HOME
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            메인홈-배민1
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://./neoShopList?neoShopList_displayGroup=BAEMIN_ONE_CTB_MARATANG&neoShopList_displayCategoryCode=BAEMIN_ONE_CTB_MARATANG_ALL&neoShopList_referrer=CTB_MAIN_HOME">
+              baemin://./neoShopList?neoShopList_displayGroup=BAEMIN_ONE_CTB_MARATANG&neoShopList_displayCategoryCode=BAEMIN_ONE_CTB_MARATANG_ALL&neoShopList_referrer=CTB_MAIN_HOME
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            배민1홈
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://./neoShopList?neoShopList_displayGroup=BAEMIN_ONE_CTB_MARATANG&neoShopList_displayCategoryCode=BAEMIN_ONE_CTB_MARATANG_ALL&neoShopList_referrer=CTB_BAEMIN_ONE_HOME">
+              baemin://./neoShopList?neoShopList_displayGroup=BAEMIN_ONE_CTB_MARATANG&neoShopList_displayCategoryCode=BAEMIN_ONE_CTB_MARATANG_ALL&neoShopList_referrer=CTB_BAEMIN_ONE_HOME
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            배달홈
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin://./responsiveShopList?responsiveShopList_displayGroup=BAEMIN_CTB_SALAD&responsiveShopList_displayCategory=BAEMIN_CTB_SALAD_ALL&responsiveShopList_title=%ED%91%B8%EC%A7%90%ED%95%9C%20%EC%83%90%EB%9F%AC%EB%93%9C&responsiveShopList_referrer=CTB_DELIVERY_HOME">
+              baemin://./responsiveShopList?responsiveShopList_displayGroup=BAEMIN_CTB_SALAD&responsiveShopList_displayCategory=BAEMIN_CTB_SALAD_ALL&responsiveShopList_title=%ED%91%B8%EC%A7%90%ED%95%9C%20%EC%83%90%EB%9F%AC%EB%93%9C&responsiveShopList_referrer=CTB_DELIVERY_HOME
+          </a>
+        </td>
+    </tr>
+    <tr>
+      <td>베타
+      </td>
+      <td>
+          베타
+      </td>
+    </tr>
+    <tr>
         <td>
             이벤트 토글 on
         </td>
