@@ -20,6 +20,33 @@
     </tr>
     <tr>
         <td>
+            이벤트 토글 on
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=true">
+              baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=true
+          </a>
+        </td>
+    </tr>
+    <tr>
+      <td>
+          이벤트 토글 off
+      </td>
+      <td>
+          <a class="baeminScheme" href="baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=false">
+           baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=false
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>.
+      </td>
+      <td>
+          .
+      </td>
+    </tr>
+    <tr>
+        <td>
             메인홈-응답형
         </td>
         <td>
