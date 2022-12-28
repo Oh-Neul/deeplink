@@ -21,4 +21,14 @@
           </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            딥링크 2
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-action-beta://internalWebview?internalWebview_url=https%3a%2f%2fevent-view.baemin.com%2fapps%2fnzqMcHn%3fmode%3dno-lottie">
+              baemin-action-beta://internalWebview?internalWebview_url=https%3a%2f%2fevent-view.baemin.com%2fapps%2fnzqMcHn%3fmode%3dno-lottie
+          </a>
+        </td>
+    </tr>
     </tbody>
