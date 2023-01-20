@@ -21,4 +21,14 @@
           </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            딥링크
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=ALL">
+              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=ALL
+          </a>
+        </td>
+    </tr>
     </tbody>
