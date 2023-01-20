@@ -23,6 +23,16 @@
     </tr>
     <tr>
         <td>
+            딥링크 - 쿠폰함
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://home/myBaemin/couponbox">
+              baemin-beta://home/myBaemin/couponbox
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             딥링크 - All
         </td>
         <td>
