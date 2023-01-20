@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <td>
-            딥링크
+            딥링크 - All
         </td>
         <td>
             <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=ALL">
@@ -31,4 +31,55 @@
           </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            딥링크 - DELIVERY
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=DELIVERY">
+              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=DELIVERY
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            딥링크 - TAKEOUT
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=TAKEOUT">
+              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=TAKEOUT
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            딥링크 - BMART
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=BMART">
+              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=BMART
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            딥링크 - All
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=ALL">
+              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=ALL
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            딥링크 - SHOPPING_LIVE
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=SHOPPING_LIVE">
+              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=SHOPPING_LIVE
+          </a>
+        </td>
+    </tr>
+
     </tbody>
