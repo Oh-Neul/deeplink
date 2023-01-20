@@ -73,11 +73,11 @@
     </tr>
     <tr>
         <td>
-            딥링크 -STORE
+            딥링크 - BAEMIN_STORE
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=STORE">
-              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=STORE
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=BAEMIN_STORE">
+              baemin-beta://./search/searchResult?searchResult_query=커피&searchResult_serviceTab=BAEMIN_STORE
           </a>
         </td>
     </tr>
