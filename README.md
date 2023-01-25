@@ -96,6 +96,7 @@
     
     
 Braze 딥링크 테스트
+
 쿠폰함
 - <a class="baeminScheme" href="baemin://home/myBaemin/couponbox">
               baemin://home/myBaemin/couponbox
