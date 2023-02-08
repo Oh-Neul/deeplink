@@ -16,8 +16,8 @@
             딥링크
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-action-beta://agreeMarketingPush?agreeMarketingPush_agreement=true">
-              baemin-action-beta://agreeMarketingPush?agreeMarketingPush_agreement=true
+            <a class="baeminScheme" href="baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=true">
+              baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=true
           </a>
         </td>
     </tr>
