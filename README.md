@@ -26,6 +26,11 @@
             딥링크 - 쿠폰함
         </td>
         <td>
+            <a class="baeminScheme" href="baemin-beta://home/myBaemin/couponbox">
+              baemin-beta://home/myBaemin/couponbox
+          </a>
+        </td>
+       <td>
             <a class="baeminScheme" href="baemin://home/myBaemin/couponbox">
               baemin://home/myBaemin/couponbox
           </a>
@@ -34,6 +39,11 @@
     <tr>
         <td>
             딥링크 - All
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=ALL">
+              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=ALL
+          </a>
         </td>
         <td>
             <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=ALL">
@@ -46,6 +56,11 @@
             딥링크 - DELIVERY
         </td>
         <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY">
+              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY
+          </a>
+        </td>
+      <td>
             <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY">
               baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY
           </a>
@@ -56,6 +71,11 @@
             딥링크 - TAKEOUT
         </td>
         <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT">
+              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT
+          </a>
+        </td>
+      <td>
             <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT">
               baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT
           </a>
@@ -66,6 +86,11 @@
             딥링크 - BMART
         </td>
         <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART">
+              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART
+          </a>
+        </td>
+      <td>
             <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART">
               baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART
           </a>
@@ -76,6 +101,11 @@
             딥링크 - BAEMIN_STORE
         </td>
         <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE">
+              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE
+          </a>
+        </td>
+      <td>
             <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE">
               baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE
           </a>
@@ -86,6 +116,11 @@
             딥링크 - SHOPPING_LIVE
         </td>
         <td>
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE">
+              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE
+          </a>
+        </td>
+      <td>
             <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE">
               baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE
           </a>
