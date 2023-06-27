@@ -13,7 +13,7 @@
     <tbody>
     <tr>
         <td>
-            Android
+            iOS
         </td>
         <td>
             <a class="baeminScheme" href="baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4">
@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <td>
-            iOS
+            Android
         </td>
         <td>
             <a class="baeminScheme" href="baemin-beta://home/menuDetail?menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4">
