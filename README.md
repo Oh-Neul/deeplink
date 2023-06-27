@@ -21,4 +21,24 @@
           </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            딥링크
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4">
+              baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            딥링크
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://home/menuDetail?menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4">
+              baemin-beta://home/menuDetail?menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4
+          </a>
+        </td>
+    </tr>
     </tbody>
