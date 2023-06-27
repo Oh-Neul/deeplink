@@ -1,4 +1,4 @@
-# App Scheme Test Page 11.40.0
+# App Scheme Test Page 12.4.0
 
 <html>
   <head></head>
@@ -16,113 +16,8 @@
             딥링크
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=true">
-              baemin-action://agreeMarketingPush?agreeMarketingPush_agreement=true
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            딥링크 - 쿠폰함
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://home/myBaemin/couponbox">
-              baemin-beta://home/myBaemin/couponbox
-          </a>
-        </td>
-       <td>
-            <a class="baeminScheme" href="baemin://home/myBaemin/couponbox">
-              baemin://home/myBaemin/couponbox
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            딥링크 - All
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=ALL">
-              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=ALL
-          </a>
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=ALL">
-              baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=ALL
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            딥링크 - DELIVERY
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY">
-              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY
-          </a>
-        </td>
-      <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY">
-              baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=DELIVERY
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            딥링크 - TAKEOUT
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT">
-              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT
-          </a>
-        </td>
-      <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT">
-              baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=TAKEOUT
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            딥링크 - BMART
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART">
-              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART
-          </a>
-        </td>
-      <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART">
-              baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BMART
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            딥링크 - BAEMIN_STORE
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE">
-              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE
-          </a>
-        </td>
-      <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE">
-              baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=BAEMIN_STORE
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            딥링크 - SHOPPING_LIVE
-        </td>
-        <td>
-            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE">
-              baemin-beta://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE
-          </a>
-        </td>
-      <td>
-            <a class="baeminScheme" href="baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE">
-              baemin://./search/searchResult?searchResult_query=고기&searchResult_serviceTab=SHOPPING_LIVE
+            <a class="baeminScheme" href="baemin-beta://home/menuDetail?menuDetail_shopNo= 13832269&menuDetail_menuNo= 34422911&menuDetail_categoryTypeCode=4">
+              baemin-beta://home/menuDetail?menuDetail_shopNo= 13832269&menuDetail_menuNo= 34422911&menuDetail_categoryTypeCode=4
           </a>
         </td>
     </tr>
