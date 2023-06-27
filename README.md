@@ -31,4 +31,14 @@
           </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            iOS
+        </td>
+        <td>
+            <a class="baeminScheme" href="baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911">
+              baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4
+          </a>
+        </td>
+    </tr>
     </tbody>
