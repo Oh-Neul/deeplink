@@ -13,7 +13,7 @@
     <tbody>
     <tr>
         <td>
-            Android
+            android
         </td>
         <td>
             <a class="baeminScheme" href="baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4">
