@@ -46,7 +46,7 @@
             메뉴리뷰
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://home/menuReviewList?menuReviewList_shopNo=13832265&menuReviewList_menuNo=34398942">
+            <a class="baeminScheme" href="baemin-beta://menuReviewList?menuReviewList_shopNo=13832265&menuReviewList_menuNo=34398942">
               baemin-beta://home/menuReviewList?menuReviewList_shopNo=13832265&menuReviewList_menuNo=34398942
           </a>
         </td>
