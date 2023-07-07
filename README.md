@@ -13,21 +13,21 @@
     <tbody>
     <tr>
         <td>
-            iOS
+            Android
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4">
-              baemin-beta://home/shopDetail/menuDetail?shopDetail_shopNo=13832269&menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4
+            <a class="baeminScheme" href="baemin://home/menuDetail?menuDetail_shopNo=13865420&menuDetail_menuNo=112023857&menuDetail_categoryTypeCode=4">
+              baemin://home/menuDetail?menuDetail_shopNo=13865420&menuDetail_menuNo=112023857&menuDetail_categoryTypeCode=4
           </a>
         </td>
     </tr>
     <tr>
         <td>
-            Android
+            iOS
         </td>
         <td>
-            <a class="baeminScheme" href="baemin-beta://home/menuDetail?menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4">
-              baemin-beta://home/menuDetail?menuDetail_shopNo=13832269&menuDetail_menuNo=34422911&menuDetail_categoryTypeCode=4
+            <a class="baeminScheme" href="baemin://home/shopDetail/menuDetail?shopDetail_shopNo=13865420&menuDetail_shopNo=13865420&menuDetail_menuNo=112023857&menuDetail_categoryTypeCode=4">
+              baemin://home/shopDetail/menuDetail?shopDetail_shopNo=13865420&menuDetail_shopNo=13865420&menuDetail_menuNo=112023857&menuDetail_categoryTypeCode=4
           </a>
         </td>
     </tr>
