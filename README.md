@@ -1,4 +1,4 @@
-# App Scheme Test Page 12.4.0
+# App Scheme Test Page 12.10.0
 
 <html>
   <head></head>
@@ -16,8 +16,8 @@
             Android
         </td>
         <td>
-            <a class="baeminScheme" href="baemin://home/menuDetail?menuDetail_shopNo=13865420&menuDetail_menuNo=112023857&menuDetail_categoryTypeCode=4">
-              baemin://home/menuDetail?menuDetail_shopNo=13865420&menuDetail_menuNo=112023857&menuDetail_categoryTypeCode=4
+            <a class="baeminScheme" href="baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY">
+              baemin-beta://./search/searchResult?searchResult_query=치킨&searchResult_serviceTab=DELIVERY
           </a>
         </td>
     </tr>
